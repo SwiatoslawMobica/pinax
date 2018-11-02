@@ -31,6 +31,7 @@
             "process-files": ["index.js", "README.md", "requirements-zero.txt"],
             "releases": [
                 "https://github.com/armmbed/pinax-starter-projects/archive/arm-1.0.0.tar.gz"
+                "https://github.com/armmbed/pinax-starter-projects/archive/arm-1.0.1.tar.gz"
             ]
         },
         "blog": {
